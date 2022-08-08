@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MateusFBolognesi
-- 👀 I’m interested in DataScience, DataAnalytics and DataEngineer
+- 👀 I’m interested in Data Science, Data Analytics and Data Engineer
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects!
 - 📫 How to reach me mateusbolognesi11@gmail.com
